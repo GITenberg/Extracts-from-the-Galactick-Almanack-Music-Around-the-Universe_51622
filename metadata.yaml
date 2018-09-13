@@ -1,5 +1,5 @@
 _repo: Extracts-from-the-Galactick-Almanack-Music-Around-the-Universe_51622
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Martin, Don
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '36344'
     url: http://www.gutenberg.org/2009/agents/36344
     wikipedia: http://en.wikipedia.org/wiki/Don_Martin_%28cartoonist%29
+covers:
+- cover_type: archival
+  image_path: 51622-h/images/cover.jpg
 creator:
   author:
     agent_name: Janifer, Laurence M.
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25268
     wikipedia: http://en.wikipedia.org/wiki/Laurence_Janifer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51622#Extracts-from-the-Galactick-Almanack-Music-Around-the-Universe
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-04-02'
 gutenberg_type: Text
